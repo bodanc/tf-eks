@@ -1,0 +1,6 @@
+gitlabUrl: https://gitlab.threatfabric.org
+
+rbac:
+  create: true
+
+#runnerToken: ""
